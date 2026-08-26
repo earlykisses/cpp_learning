@@ -1,21 +1,13 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        for(int i = 1; ; i++) {
-            int multiple = k * i;
-
-            bool found = false;
-
-            for(int j = 0; j < nums.size(); j++) {
-                if(nums[j] == multiple) {
-                    found = true;
-                    break;
-                }
-            }
-
-            if(!found) {
-                return multiple;
-            }
+        unordered_set<int>s(nums.begin(),nums.end());
+        int i=1;
+        while(1){
+            int m=k*i;
+            if(s.find(m)==s.end())
+                return m;
+            i++;
         }
     }
 };
