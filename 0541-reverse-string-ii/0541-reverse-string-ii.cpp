@@ -7,7 +7,6 @@ public:
             int i = start;
             int j = min(start + k - 1, n - 1);
 
-            // Two pointer reversal
             while (i < j) {
                 swap(s[i], s[j]);
                 i++;
