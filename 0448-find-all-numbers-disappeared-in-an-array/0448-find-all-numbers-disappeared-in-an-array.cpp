@@ -3,17 +3,19 @@ public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
         int n = nums.size();
 
-        for (int i = 0; i < n; i++) {
-            int x = abs(nums[i]);
+        unordered_map<int, bool> mp;
 
-            nums[x - 1] = -abs(nums[x - 1]);
+        // Store all numbers that appear
+        for (int x : nums) {
+            mp[x] = true;
         }
 
         vector<int> ans;
 
-        for (int i = 0; i < n; i++) {
-            if (nums[i] > 0) {
-                ans.push_back(i + 1);
+        // Check numbers from 1 to n
+        for (int i = 1; i <= n; i++) {
+            if (mp.find(i) == mp.end()) {
+                ans.push_back(i);
             }
         }
 
