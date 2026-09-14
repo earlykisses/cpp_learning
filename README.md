@@ -16,6 +16,7 @@ This is my learning of c++ and coding on leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/earlykisses/cpp_learning/tree/main/0836-rectangle-overlap/) | Easy |
 | [3870-count-commas-in-range](https://github.com/earlykisses/cpp_learning/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/earlykisses/cpp_learning/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Hash Table
@@ -44,4 +45,8 @@ This is my learning of c++ and coding on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/earlykisses/cpp_learning/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
