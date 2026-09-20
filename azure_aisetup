@@ -560,3 +560,37 @@ Write-Host "13. Endpoint invocation"
 Write-Host ""
 
 Write-Host "================================================"
+1. Initial repository setup
+   └── .gitignore / environment documentation if needed
+
+2. Environment setup
+   └── dependency configuration
+
+3. Azure configuration
+   └── .env.example/config documentation
+   └── NEVER commit real secrets
+
+4. Azure AI Search index
+   └── index-building work
+
+5. AI SDK copilot
+   └── first working RAG implementation
+
+6. LangChain copilot
+   └── LangChain implementation
+
+7. Prompt Flow copilot
+   └── Prompt Flow implementation
+
+8. Evaluation
+   └── evaluation/tests/results
+
+9. Deployment
+   └── deployment changes
+
+10. Final README/documentation
+   └── complete project documentation
+git status
+git add .
+git commit -m "..."
+git push origin main
