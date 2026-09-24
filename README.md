@@ -10,6 +10,7 @@ This is my learning of c++ and coding on leetcode
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/earlykisses/cpp_learning/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/earlykisses/cpp_learning/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/earlykisses/cpp_learning/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@ This is my learning of c++ and coding on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/earlykisses/cpp_learning/tree/main/0836-rectangle-overlap/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/earlykisses/cpp_learning/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/earlykisses/cpp_learning/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/earlykisses/cpp_learning/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Hash Table
