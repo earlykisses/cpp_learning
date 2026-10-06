@@ -29,6 +29,7 @@ This is my learning of c++ and coding on leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0507-perfect-number](https://github.com/earlykisses/cpp_learning/tree/main/0507-perfect-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/earlykisses/cpp_learning/tree/main/0836-rectangle-overlap/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/earlykisses/cpp_learning/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/earlykisses/cpp_learning/tree/main/3870-count-commas-in-range/) | Easy |
