@@ -7,6 +7,7 @@ This is my learning of c++ and coding on leetcode
 | ------- | ------- |
 | [0015-3sum](https://github.com/earlykisses/cpp_learning/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/earlykisses/cpp_learning/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0204-count-primes](https://github.com/earlykisses/cpp_learning/tree/main/0204-count-primes/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/earlykisses/cpp_learning/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/earlykisses/cpp_learning/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -29,6 +30,7 @@ This is my learning of c++ and coding on leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/earlykisses/cpp_learning/tree/main/0204-count-primes/) | Medium |
 | [0507-perfect-number](https://github.com/earlykisses/cpp_learning/tree/main/0507-perfect-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/earlykisses/cpp_learning/tree/main/0836-rectangle-overlap/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/earlykisses/cpp_learning/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -48,6 +50,7 @@ This is my learning of c++ and coding on leetcode
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/earlykisses/cpp_learning/tree/main/0204-count-primes/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/earlykisses/cpp_learning/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -112,4 +115,20 @@ This is my learning of c++ and coding on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/earlykisses/cpp_learning/tree/main/0022-generate-parentheses/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/earlykisses/cpp_learning/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/earlykisses/cpp_learning/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/earlykisses/cpp_learning/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/earlykisses/cpp_learning/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
