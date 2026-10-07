@@ -1,19 +1,22 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        int mapST[256] = {};
-        int mapTS[256] = {};
+        
+        unordered_map<char, char> mapST;
+        unordered_map<char, char> mapTS;
 
         for (int i = 0; i < s.size(); i++) {
-            unsigned char a = s[i];
-            unsigned char b = t[i];
+            
+            char c1 = s[i];
+            char c2 = t[i];
 
-            if (mapST[a] != 0 && mapST[a] != b + 1)
+            if ((mapST.count(c1) && mapST[c1] != c2) ||
+                (mapTS.count(c2) && mapTS[c2] != c1)) {
                 return false;
-            if (mapTS[b] != 0 && mapTS[b] != a + 1)
-                return false;
-            mapST[a] = b + 1;
-            mapTS[b] = a + 1;
+            }
+
+            mapST[c1] = c2;
+            mapTS[c2] = c1;
         }
 
         return true;
