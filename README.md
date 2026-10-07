@@ -40,6 +40,7 @@ This is my learning of c++ and coding on leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/earlykisses/cpp_learning/tree/main/0205-isomorphic-strings/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/earlykisses/cpp_learning/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/earlykisses/cpp_learning/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -76,6 +77,7 @@ This is my learning of c++ and coding on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/earlykisses/cpp_learning/tree/main/0022-generate-parentheses/) | Medium |
+| [0205-isomorphic-strings](https://github.com/earlykisses/cpp_learning/tree/main/0205-isomorphic-strings/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/earlykisses/cpp_learning/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/earlykisses/cpp_learning/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
