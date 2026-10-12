@@ -8,6 +8,7 @@ This is my learning of c++ and coding on leetcode
 | [0015-3sum](https://github.com/earlykisses/cpp_learning/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/earlykisses/cpp_learning/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0204-count-primes](https://github.com/earlykisses/cpp_learning/tree/main/0204-count-primes/) | Medium |
+| [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/earlykisses/cpp_learning/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0819-most-common-word](https://github.com/earlykisses/cpp_learning/tree/main/0819-most-common-word/) | Easy |
@@ -34,6 +35,7 @@ This is my learning of c++ and coding on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/earlykisses/cpp_learning/tree/main/0204-count-primes/) | Medium |
+| [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/earlykisses/cpp_learning/tree/main/0507-perfect-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/earlykisses/cpp_learning/tree/main/0836-rectangle-overlap/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/earlykisses/cpp_learning/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -44,6 +46,7 @@ This is my learning of c++ and coding on leetcode
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/earlykisses/cpp_learning/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0205-isomorphic-strings](https://github.com/earlykisses/cpp_learning/tree/main/0205-isomorphic-strings/) | Easy |
+| [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/earlykisses/cpp_learning/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0819-most-common-word](https://github.com/earlykisses/cpp_learning/tree/main/0819-most-common-word/) | Easy |
@@ -70,6 +73,7 @@ This is my learning of c++ and coding on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/earlykisses/cpp_learning/tree/main/0015-3sum/) | Medium |
+| [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Counting
@@ -154,9 +158,14 @@ This is my learning of c++ and coding on leetcode
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
