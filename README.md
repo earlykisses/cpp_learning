@@ -18,6 +18,7 @@ This is my learning of c++ and coding on leetcode
 | [1089-duplicate-zeros](https://github.com/earlykisses/cpp_learning/tree/main/1089-duplicate-zeros/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/earlykisses/cpp_learning/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/earlykisses/cpp_learning/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/earlykisses/cpp_learning/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/earlykisses/cpp_learning/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
@@ -34,6 +35,7 @@ This is my learning of c++ and coding on leetcode
 | [0696-count-binary-substrings](https://github.com/earlykisses/cpp_learning/tree/main/0696-count-binary-substrings/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/earlykisses/cpp_learning/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1089-duplicate-zeros](https://github.com/earlykisses/cpp_learning/tree/main/1089-duplicate-zeros/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/earlykisses/cpp_learning/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +174,8 @@ This is my learning of c++ and coding on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/earlykisses/cpp_learning/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
