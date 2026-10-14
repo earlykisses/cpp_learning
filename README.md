@@ -9,6 +9,7 @@ This is my learning of c++ and coding on leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/earlykisses/cpp_learning/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0204-count-primes](https://github.com/earlykisses/cpp_learning/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/earlykisses/cpp_learning/tree/main/0283-move-zeroes/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/earlykisses/cpp_learning/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0819-most-common-word](https://github.com/earlykisses/cpp_learning/tree/main/0819-most-common-word/) | Easy |
@@ -25,6 +26,7 @@ This is my learning of c++ and coding on leetcode
 | [0015-3sum](https://github.com/earlykisses/cpp_learning/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/earlykisses/cpp_learning/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/earlykisses/cpp_learning/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0283-move-zeroes](https://github.com/earlykisses/cpp_learning/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/earlykisses/cpp_learning/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/earlykisses/cpp_learning/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
