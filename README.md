@@ -8,6 +8,7 @@ This is my learning of c++ and coding on leetcode
 | [0015-3sum](https://github.com/earlykisses/cpp_learning/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/earlykisses/cpp_learning/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0054-spiral-matrix](https://github.com/earlykisses/cpp_learning/tree/main/0054-spiral-matrix/) | Medium |
+| [0118-pascals-triangle](https://github.com/earlykisses/cpp_learning/tree/main/0118-pascals-triangle/) | Easy |
 | [0204-count-primes](https://github.com/earlykisses/cpp_learning/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/earlykisses/cpp_learning/tree/main/0283-move-zeroes/) | Easy |
@@ -116,6 +117,7 @@ This is my learning of c++ and coding on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/earlykisses/cpp_learning/tree/main/0022-generate-parentheses/) | Medium |
+| [0118-pascals-triangle](https://github.com/earlykisses/cpp_learning/tree/main/0118-pascals-triangle/) | Easy |
 | [0392-is-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/earlykisses/cpp_learning/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Greedy
