@@ -21,6 +21,7 @@ This is my learning of c++ and coding on leetcode
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/earlykisses/cpp_learning/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/earlykisses/cpp_learning/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/earlykisses/cpp_learning/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/earlykisses/cpp_learning/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/earlykisses/cpp_learning/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
@@ -59,6 +60,7 @@ This is my learning of c++ and coding on leetcode
 | [0819-most-common-word](https://github.com/earlykisses/cpp_learning/tree/main/0819-most-common-word/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/earlykisses/cpp_learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/earlykisses/cpp_learning/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/earlykisses/cpp_learning/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/earlykisses/cpp_learning/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -186,4 +188,12 @@ This is my learning of c++ and coding on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/earlykisses/cpp_learning/tree/main/0054-spiral-matrix/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/earlykisses/cpp_learning/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/earlykisses/cpp_learning/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
