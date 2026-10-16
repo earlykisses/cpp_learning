@@ -20,6 +20,7 @@ This is my learning of c++ and coding on leetcode
 | [0821-shortest-distance-to-a-character](https://github.com/earlykisses/cpp_learning/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/earlykisses/cpp_learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1089-duplicate-zeros](https://github.com/earlykisses/cpp_learning/tree/main/1089-duplicate-zeros/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/earlykisses/cpp_learning/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/earlykisses/cpp_learning/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/earlykisses/cpp_learning/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -40,6 +41,7 @@ This is my learning of c++ and coding on leetcode
 | [0696-count-binary-substrings](https://github.com/earlykisses/cpp_learning/tree/main/0696-count-binary-substrings/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/earlykisses/cpp_learning/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1089-duplicate-zeros](https://github.com/earlykisses/cpp_learning/tree/main/1089-duplicate-zeros/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/earlykisses/cpp_learning/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/earlykisses/cpp_learning/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@ This is my learning of c++ and coding on leetcode
 | [0015-3sum](https://github.com/earlykisses/cpp_learning/tree/main/0015-3sum/) | Medium |
 | [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/earlykisses/cpp_learning/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -174,6 +177,7 @@ This is my learning of c++ and coding on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/earlykisses/cpp_learning/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
