@@ -27,6 +27,7 @@ This is my learning of c++ and coding on leetcode
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/earlykisses/cpp_learning/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/earlykisses/cpp_learning/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/earlykisses/cpp_learning/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/earlykisses/cpp_learning/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ This is my learning of c++ and coding on leetcode
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/earlykisses/cpp_learning/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/earlykisses/cpp_learning/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/earlykisses/cpp_learning/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/earlykisses/cpp_learning/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@ This is my learning of c++ and coding on leetcode
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/earlykisses/cpp_learning/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/earlykisses/cpp_learning/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
