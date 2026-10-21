@@ -16,6 +16,7 @@ This is my learning of c++ and coding on leetcode
 | [0283-move-zeroes](https://github.com/earlykisses/cpp_learning/tree/main/0283-move-zeroes/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/earlykisses/cpp_learning/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0704-binary-search](https://github.com/earlykisses/cpp_learning/tree/main/0704-binary-search/) | Easy |
 | [0819-most-common-word](https://github.com/earlykisses/cpp_learning/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/earlykisses/cpp_learning/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/earlykisses/cpp_learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -182,6 +183,7 @@ This is my learning of c++ and coding on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/earlykisses/cpp_learning/tree/main/0704-binary-search/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/earlykisses/cpp_learning/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/earlykisses/cpp_learning/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
