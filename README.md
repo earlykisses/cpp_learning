@@ -7,6 +7,7 @@ This is my learning of c++ and coding on leetcode
 | ------- | ------- |
 | [0015-3sum](https://github.com/earlykisses/cpp_learning/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/earlykisses/cpp_learning/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/earlykisses/cpp_learning/tree/main/0035-search-insert-position/) | Easy |
 | [0054-spiral-matrix](https://github.com/earlykisses/cpp_learning/tree/main/0054-spiral-matrix/) | Medium |
 | [0118-pascals-triangle](https://github.com/earlykisses/cpp_learning/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/earlykisses/cpp_learning/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -182,6 +183,7 @@ This is my learning of c++ and coding on leetcode
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/earlykisses/cpp_learning/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/earlykisses/cpp_learning/tree/main/0704-binary-search/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/earlykisses/cpp_learning/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
