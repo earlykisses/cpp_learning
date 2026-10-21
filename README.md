@@ -7,6 +7,7 @@ This is my learning of c++ and coding on leetcode
 | ------- | ------- |
 | [0015-3sum](https://github.com/earlykisses/cpp_learning/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/earlykisses/cpp_learning/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/earlykisses/cpp_learning/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/earlykisses/cpp_learning/tree/main/0035-search-insert-position/) | Easy |
 | [0054-spiral-matrix](https://github.com/earlykisses/cpp_learning/tree/main/0054-spiral-matrix/) | Medium |
 | [0118-pascals-triangle](https://github.com/earlykisses/cpp_learning/tree/main/0118-pascals-triangle/) | Easy |
@@ -183,6 +184,7 @@ This is my learning of c++ and coding on leetcode
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/earlykisses/cpp_learning/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/earlykisses/cpp_learning/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/earlykisses/cpp_learning/tree/main/0704-binary-search/) | Easy |
