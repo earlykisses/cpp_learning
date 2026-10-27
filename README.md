@@ -24,6 +24,7 @@ This is my learning of c++ and coding on leetcode
 | [0992-subarrays-with-k-different-integers](https://github.com/earlykisses/cpp_learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1089-duplicate-zeros](https://github.com/earlykisses/cpp_learning/tree/main/1089-duplicate-zeros/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/earlykisses/cpp_learning/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/earlykisses/cpp_learning/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/earlykisses/cpp_learning/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/earlykisses/cpp_learning/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -88,6 +89,7 @@ This is my learning of c++ and coding on leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/earlykisses/cpp_learning/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/earlykisses/cpp_learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/earlykisses/cpp_learning/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -194,6 +196,7 @@ This is my learning of c++ and coding on leetcode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/earlykisses/cpp_learning/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
