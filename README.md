@@ -15,6 +15,7 @@ This is my learning of c++ and coding on leetcode
 | [0128-longest-consecutive-sequence](https://github.com/earlykisses/cpp_learning/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0137-single-number-ii](https://github.com/earlykisses/cpp_learning/tree/main/0137-single-number-ii/) | Medium |
 | [0204-count-primes](https://github.com/earlykisses/cpp_learning/tree/main/0204-count-primes/) | Medium |
+| [0260-single-number-iii](https://github.com/earlykisses/cpp_learning/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/earlykisses/cpp_learning/tree/main/0283-move-zeroes/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/earlykisses/cpp_learning/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -203,6 +204,7 @@ This is my learning of c++ and coding on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/earlykisses/cpp_learning/tree/main/0137-single-number-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/earlykisses/cpp_learning/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
