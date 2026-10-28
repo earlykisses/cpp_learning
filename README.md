@@ -13,6 +13,7 @@ This is my learning of c++ and coding on leetcode
 | [0118-pascals-triangle](https://github.com/earlykisses/cpp_learning/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/earlykisses/cpp_learning/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/earlykisses/cpp_learning/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0137-single-number-ii](https://github.com/earlykisses/cpp_learning/tree/main/0137-single-number-ii/) | Medium |
 | [0204-count-primes](https://github.com/earlykisses/cpp_learning/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/earlykisses/cpp_learning/tree/main/0283-move-zeroes/) | Easy |
@@ -201,6 +202,7 @@ This is my learning of c++ and coding on leetcode
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/earlykisses/cpp_learning/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
