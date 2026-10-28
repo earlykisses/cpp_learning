@@ -1,35 +1,23 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
+        unordered_map<int, int> mp;
 
-        int xorAll = 0;
-
-        // XOR all elements
         for (int num : nums) {
-            xorAll ^= num;
+            mp[num]++;
         }
 
-        // Find any bit where the two unique numbers differ
-        int diffBit = 1;
+        vector<int> ans;
+        for (auto& arr : mp) {
+            if (arr.second == 1) {
+                ans.push_back(arr.first);
 
-        while ((xorAll & diffBit) == 0) {
-            diffBit = diffBit << 1;
-        }
-
-        int a = 0;
-        int b = 0;
-
-        // Divide into two groups
-        for (int num : nums) {
-
-            if (num & diffBit) {
-                a ^= num;
-            }
-            else {
-                b ^= num;
+                if (ans.size() == 2) {
+                    break;
+                }
             }
         }
 
-        return {a, b};
+        return ans;
     }
 };
