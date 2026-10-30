@@ -24,6 +24,7 @@ This is my learning of c++ and coding on leetcode
 | [0819-most-common-word](https://github.com/earlykisses/cpp_learning/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/earlykisses/cpp_learning/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/earlykisses/cpp_learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/earlykisses/cpp_learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1089-duplicate-zeros](https://github.com/earlykisses/cpp_learning/tree/main/1089-duplicate-zeros/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/earlykisses/cpp_learning/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/earlykisses/cpp_learning/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -92,6 +93,7 @@ This is my learning of c++ and coding on leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/earlykisses/cpp_learning/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/earlykisses/cpp_learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/earlykisses/cpp_learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/earlykisses/cpp_learning/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Sorting
@@ -194,12 +196,14 @@ This is my learning of c++ and coding on leetcode
 | [0035-search-insert-position](https://github.com/earlykisses/cpp_learning/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/earlykisses/cpp_learning/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/earlykisses/cpp_learning/tree/main/0704-binary-search/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/earlykisses/cpp_learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/earlykisses/cpp_learning/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/earlykisses/cpp_learning/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/earlykisses/cpp_learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/earlykisses/cpp_learning/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/earlykisses/cpp_learning/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Bit Manipulation
