@@ -23,6 +23,7 @@ This is my learning of c++ and coding on leetcode
 | [0704-binary-search](https://github.com/earlykisses/cpp_learning/tree/main/0704-binary-search/) | Easy |
 | [0819-most-common-word](https://github.com/earlykisses/cpp_learning/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/earlykisses/cpp_learning/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/earlykisses/cpp_learning/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/earlykisses/cpp_learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/earlykisses/cpp_learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1089-duplicate-zeros](https://github.com/earlykisses/cpp_learning/tree/main/1089-duplicate-zeros/) | Easy |
@@ -73,6 +74,7 @@ This is my learning of c++ and coding on leetcode
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/earlykisses/cpp_learning/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0819-most-common-word](https://github.com/earlykisses/cpp_learning/tree/main/0819-most-common-word/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/earlykisses/cpp_learning/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/earlykisses/cpp_learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/earlykisses/cpp_learning/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/earlykisses/cpp_learning/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -92,6 +94,7 @@ This is my learning of c++ and coding on leetcode
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/earlykisses/cpp_learning/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/earlykisses/cpp_learning/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/earlykisses/cpp_learning/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/earlykisses/cpp_learning/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/earlykisses/cpp_learning/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
