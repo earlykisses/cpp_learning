@@ -38,6 +38,7 @@ This is my learning of c++ and coding on leetcode
 | [3483-unique-3-digit-even-numbers](https://github.com/earlykisses/cpp_learning/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/earlykisses/cpp_learning/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/earlykisses/cpp_learning/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/earlykisses/cpp_learning/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/earlykisses/cpp_learning/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@ This is my learning of c++ and coding on leetcode
 | [0119-pascals-triangle-ii](https://github.com/earlykisses/cpp_learning/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/earlykisses/cpp_learning/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/earlykisses/cpp_learning/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/earlykisses/cpp_learning/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/earlykisses/cpp_learning/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
