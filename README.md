@@ -143,6 +143,7 @@ This is my learning of c++ and coding on leetcode
 | [1021-remove-outermost-parentheses](https://github.com/earlykisses/cpp_learning/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/earlykisses/cpp_learning/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/earlykisses/cpp_learning/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/earlykisses/cpp_learning/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +227,7 @@ This is my learning of c++ and coding on leetcode
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/earlykisses/cpp_learning/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/earlykisses/cpp_learning/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/earlykisses/cpp_learning/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
